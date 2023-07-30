@@ -1,0 +1,10 @@
+hover-text {
+  cursor: pointer;
+  font-size: 16;
+  font-weight: "500";
+}
+
+.hover-text:hover {
+  text-decoration: underline;
+  color: blue;
+}
